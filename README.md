@@ -1,6 +1,6 @@
-# thebestofartshop
+# TheBestOfArtShop
 
-> Is a project to learn vuejs building an online store
+> The main goal of this repo is learn about vuejs following this course: https://scotch.io/courses/build-an-online-shop-with-vue/ I'll build an online store based on this facebook's page: https://www.facebook.com/Saesfranco/ a company selling different gemstones like larimal, called The Best of Art.
 
 ## Build Setup
 
@@ -19,3 +19,5 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
