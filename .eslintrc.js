@@ -25,6 +25,7 @@ module.exports = {
   // add your custom rules here
   'rules': {
     // don't require .vue extension when importing
+    "linebreak-style": ["error", process.env.NODE_ENV === 'prod' ? "unix" : "windows"],
     'import/extensions': ['error', 'always', {
       'js': 'never',
       'vue': 'never'
